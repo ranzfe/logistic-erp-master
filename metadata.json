@@ -1,0 +1,6 @@
+{
+  "name": "LogistiX ERP - Integrated Logistics & Fleet Management",
+  "description": "Aplikasi ERP Logistik terpadu: Delivery Order, Real-time Monitoring, Quotation, Invoicing, Vendor AP, Profit & Loss, Petty Cash, dan Armada dengan 5 Role RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
